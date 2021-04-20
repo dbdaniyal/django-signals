@@ -23,5 +23,3 @@ def post_counter_signal(sender, **kwargs):
     print(kwargs)
 
 
-959595049
-
